@@ -22,7 +22,7 @@ with subject: “CSH2H3 2018-2 Assignment 3” and email body contains: Name+Cla
 
 Timeline
 
-Submit not later than 06-Apr-2018 09:00 UTC+7 (AM, morning, tomorrow ...).
+Submit not later than 06-Apr-2018 09:00 UTC+7 (AM, morning, today :-D hurry please ...).
 
 
 Grading
